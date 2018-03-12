@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SS.CloudStorage</id>
+    <version>$version$</version>
+    <title>云存储插件</title>
+    <authors>SiteServer CMS</authors>
+    <owners>siteserver</owners>
+    <licenseUrl>https://github.com/siteserver/SS.CloudStorage/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/siteserver/SS.CloudStorage</projectUrl>
+    <iconUrl>https://github.com/siteserver/SS.CloudStorage/raw/master/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SiteServer CMS 云存储插件，支持阿里云与微软Azure</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>SiteServer CMS Cloud Storage Plugin</tags>
+  </metadata>
+</package>
